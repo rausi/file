@@ -4,8 +4,8 @@
     "witness": "ed25519_sig1kcndsjvs6r678e9q5aczuuttjy4earp2gusmh4jcuw39mqdxmhwt58ktntsng3p2sqrs4rppgurxaplqcacqyt852dvw3amfz7277zqt9gs88"
   },
   "info": {
-  "url_png_icon_64x64": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/rausi64x64.jpg",
-  "url_png_logo": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/DB852209-5015-47A2-A6D7-1D9FD33B0444.jpeg",
+  "url_png_icon_64x64": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/rausi64x64.png",
+  "url_png_logo": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/rausi400x400.png",
   "location": "Tampere, Finland",
   "social": {
       "twitter_handle": "RausiP",
