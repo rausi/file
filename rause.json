@@ -1,0 +1,28 @@
+{
+  "itn": {
+    "owner": "ed25519_pk1clkcp5ky48zkrpqmvujm3m0vmpylrdlzn4hu76lll2c5v3rmnnmqaahluz",
+    "witness": "ed25519_sig1kcndsjvs6r678e9q5aczuuttjy4earp2gusmh4jcuw39mqdxmhwt58ktntsng3p2sqrs4rppgurxaplqcacqyt852dvw3amfz7277zqt9gs88"
+  },
+  "info": {
+  "url_png_icon_64x64": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/rausi64x64.jpg",
+  "url_png_logo": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/DB852209-5015-47A2-A6D7-1D9FD33B0444.jpeg",
+  "location": "Tampere, Finland",
+  "social": {
+      "twitter_handle": "RausiP",
+      "telegram_handle": "RausiP",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": "rausi"
+       },
+    "about": {
+        "me": "My name is Toni and i have over 20 years work experience in technology area. The RausiPool is a stake pool established in December 2019. Stakepool running here in beautiful Finland. Please come and join by delegating to RAUSI!",
+        "server": "Own server, Own monitoring scripts with email notifications, Ubuntu OS, Fast fiber internet"
+    }
+  }
+}
+
+
+
+
