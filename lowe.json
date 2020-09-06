@@ -4,12 +4,12 @@
     "witness": "ed25519_sig1j8kp6gdxvfmqx937d25k6902vm727lj9yf0vpamj0vtzrp22pkljppt2ug89v4me9dfqhha25hajkfhqvalp20a9jjrp363vkrwfvzsrdwtpn"
   },
   "info": {
-  "url_png_icon_64x64": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/rausi64x64.png",
-  "url_png_logo": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/rausi400x400.png",
+  "url_png_icon_64x64": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/LOW64x64.png",
+  "url_png_logo": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/LOW2400x400.png",
   "location": "Tampere, Finland",
   "social": {
-      "twitter_handle": "RausiP",
-      "telegram_handle": "RausiP",
+      "twitter_handle": "",
+      "telegram_handle": "",
       "facebook_handle": "",
       "youtube_handle": "",
       "twitch_handle": "",
@@ -17,8 +17,8 @@
       "github_handle": "rausi"
        },
     "about": {
-        "me": "My name is Toni and i have over 20 years work experience in technology area. The RausiPool is a stake pool established in December 2019. Stakepool running here in beautiful Finland. Please come and join by delegating to RAUSI!",
-        "server": "Own server, Own monitoring scripts with email notifications, Ubuntu OS, Fast fiber internet"
+        "me": "The LOW is a stake pool established in December 2019. Stakepool running here in beautiful Finland. Please come and join by delegating to LOW!",
+        "server": "Own server, Ubuntu OS, Fast fiber internet"
     }
   }
 }
