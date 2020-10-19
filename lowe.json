@@ -4,11 +4,11 @@
     "witness": "ed25519_sig1j8kp6gdxvfmqx937d25k6902vm727lj9yf0vpamj0vtzrp22pkljppt2ug89v4me9dfqhha25hajkfhqvalp20a9jjrp363vkrwfvzsrdwtpn"
   },
   "info": {
-  "url_png_icon_64x64": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/LOW64x64.png",
-  "url_png_logo": "https://raw.githubusercontent.com/rausi/RausiPool/gh-pages/images/LOW2400x400.png",
+  "url_png_icon_64x64": "",
+  "url_png_logo": "",
   "location": "Cardano Blockchain",
   "social": {
-      "twitter_handle": "LoWPool2",
+      "twitter_handle": "",
       "telegram_handle": "",
       "facebook_handle": "",
       "youtube_handle": "",
@@ -17,8 +17,7 @@
       "github_handle": "rausi"
        },
     "about": {
-        "me": "The LOW is a stake pool established in December 2019. Please come and join by delegating to LOW!",
-        "server": "Own server, Ubuntu OS, Fast fiber internet"
+        "me": ""
     }
   }
 }
