@@ -3,5 +3,6 @@
 "description": "RausiPool | Stable and reliable operation 24/7 | Finland",
 "ticker": "RAUSI",
 "homepage": "https://rausipool.fi",
-"extended": "https://raw.githubusercontent.com/rausi/file/master/rause.json"
+"extended": "https://raw.githubusercontent.com/rausi/file/master/rause.json",
+"adapools": "0025c182587e2cc4bc1e8d0d6a64923a"   
 }
